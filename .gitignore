@@ -1,2 +1,3 @@
 # ignorar arquivo de configurações
-email_config.py
+senha.txt
+*.pyc
